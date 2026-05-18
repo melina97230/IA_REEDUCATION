@@ -1,0 +1,6 @@
+patient_id,birth_date,tdah,score,errors,difficulty,avg_reaction_time,impulsivity,focus_mode,num_columns,fatigue
+P0,2026-05-18,Oui,0,0,1.0,0.0,,,,
+P0,2026-05-18,Oui,23,1,3.0,1.3,1.0,False,,
+PO,2026-05-18,Oui,28,1,,1.44,1.0,,7.0,
+PO,2026-05-18,Oui,92,20,,1.5,1.0,,3.0,110.0
+PO,2026-05-18,Oui,92,20,,1.5,1.0,,3.0,112.0
